@@ -1,0 +1,6 @@
+###################################
+## Wordpress Ignores
+###################################
+
+wp-config.php
+wp-content/uploads
